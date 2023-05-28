@@ -4,4 +4,4 @@ To better read the git history of a repository it is sometimes useful to squash 
 
 The new squashed commit will have a new commit hash, so it is important to note that this will change the commit history of the repository. This is why we recommend squashing commits on feature branches that are merged into the main branch.
 
-Now I want to test squashing and rebasing.
+Now I want to test squashing and rebasing, when approving a pull request.
