@@ -9,3 +9,19 @@ Now I want to test squashing and rebasing when approving a pull request.
 ## Testing _squashing and rebasing pull request_ summary feature
 
 This is a test to see if the PR summary feature works when squashing and rebasing commits.
+
+## Cleanup remote branches
+
+To cleanup remote branches that have been merged into the main branch, run the following command:
+
+```bash
+git fetch --prune
+```
+
+## Cleanup local branches
+
+To clean up a local branch that have been merged into the remote main branch, run the following command:
+
+```bash
+git branch -D <branch_name>
+```
