@@ -6,6 +6,6 @@ The new squashed commit will have a new commit hash, so it is important to note 
 
 Now I want to test squashing and rebasing when approving a pull request.
 
-## Testing squashing and rebasing PR summary feature
+## Testing _squashing and rebasing pull request_ summary feature
 
 This is a test to see if the PR summary feature works when squashing and rebasing commits.
